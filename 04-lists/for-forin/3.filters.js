@@ -1,0 +1,1 @@
+const { obterPessoas } = require('./service')
